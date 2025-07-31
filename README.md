@@ -17,7 +17,7 @@
 
 ### 📬 Let's Connect
 
-- 🌐 **GitHub**:
+- 🌐 **GitHub**: [github.com/InshaaKhan](https://github.com/InshaaKhan)
 - 💼 **LinkedIn**:www.linkedin.com/in/insha-khan-30b549308
 
 ---
