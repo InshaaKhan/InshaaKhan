@@ -6,7 +6,7 @@
 - 💻 I’m currently working on **Full Stack / MERN Projects**
 - 📚 I’m currently learning **Java, DSA and Full Stack Development**
 - 🌱 Always learning and building new things
-- 📩 Reach me at: **inshakhan@email.com**
+- 📩 Reach me at: **inshakhan@gmail.com**
 
 ---
 
