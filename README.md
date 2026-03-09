@@ -1,78 +1,32 @@
-# Hi, I'm Insha Khan 👋
+<h1 align="center">Hey 👋 I Am Insha Khan</h1>
 
-💻 Full Stack Developer passionate about building modern web applications and AI-powered tools.
+### 🌟 About me:
 
-🎓 Final Year B.Tech Student  
-📍 Madhya Pradesh, India  
-
----
-
-## 🚀 Tech Stack
-
-**Languages**
-- Java
-- JavaScript
-- HTML
-- CSS
-
-**Frontend**
-- React.js
-- Tailwind CSS
-- Bootstrap
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
+- 🎓 Final Year at LNCT, Bhopal
+- 💻 I’m currently working on **Full Stack / MERN Projects**
+- 📚 I’m currently learning **Java, DSA and Full Stack Development**
+- 🌱 Always learning and building new things
+- 📩 Reach me at: **inshakhan@email.com**
 
 ---
 
-## 📌 Projects
+### 🛠 Tech Stack
 
-### MockMateAI – AI Mock Interview Platform
-A web application that simulates real interview environments and helps users practice interviews using AI.
+#### 💻 Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 
-**Features**
-- AI-based interview question generation  
-- Real-time mock interview experience  
-- Interactive and responsive UI  
+#### ⚙ Backend:
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
-**Tech Stack**
-React.js • Node.js • Express • MongoDB • AI API
-
-
----
-
-### Resume Analyzer – AI Resume Evaluation Tool
-A web tool that analyzes resumes and provides AI-powered feedback to improve job applications.
-
-**Features**
-- Resume upload and analysis  
-- AI-based feedback and suggestions  
-- Clean and responsive UI  
-
-**Tech Stack**
-React.js • Node.js • Express • MongoDB • AI API
-
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms in Java  
-- Building scalable full stack applications
-
----
-
-## 🤝 Connect With Me
-
-GitHub: https://github.com/Inshaakhan  
-LinkedIn: https://www.linkedin.com/in/insha-khan-30b549308
+#### 🧰 Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
