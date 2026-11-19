@@ -67,8 +67,7 @@ me = {
 </table>
 
 ## 🚀 projects
-
-## 🚀 featured projects
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
@@ -84,7 +83,7 @@ me = {
         <code>PostgreSQL</code>
       </p>
       <a href="https://github.com/InshaaKhan/dionysus-ai">
-        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
 
@@ -98,7 +97,7 @@ me = {
         <code>AI</code>
       </p>
       <a href="https://github.com/InshaaKhan/mockmate-ai">
-        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -114,7 +113,7 @@ me = {
         <code>Gemini AI</code>
       </p>
       <a href="https://github.com/InshaaKhan/resume-analyzer">
-        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
 
@@ -128,12 +127,11 @@ me = {
         <code>MongoDB</code>
       </p>
       <a href="https://github.com/InshaaKhan/QuickRide">
-        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ## 🧰 stack
 
