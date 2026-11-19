@@ -71,16 +71,6 @@ me = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 Dionysus AI</h3>
-      <sub><b>AI-Powered Semantic Search</b></sub>
-      <p>A semantic search application using GitHub data, embeddings and RAG architecture to provide intelligent search results.</p>
-      <p><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>RAG</code></p>
-      <a href="https://github.com/InshaaKhan/dionysus-ai">
-        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
       <h3>🤖 MockMate</h3>
       <sub><b>AI Mock Interview Platform</b></sub>
       <p>An AI-powered mock interview platform designed to help candidates practice interviews and improve their performance.</p>
@@ -89,8 +79,16 @@ me = {
         <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
       </a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🧬 Dionysus AI</h3>
+      <sub><b>AI-Powered Semantic Search</b></sub>
+      <p>A semantic search application using GitHub data, embeddings and RAG architecture to provide intelligent search results.</p>
+      <p><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>RAG</code></p>
+      <a href="https://github.com/InshaaKhan/dionysus-ai">
+        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
+      </a>
+    </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Radar – Resume Analyzer</h3>
@@ -101,7 +99,6 @@ me = {
         <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
       </a>
     </td>
-
     <td width="50%" valign="top">
       <h3>🚗 QuickRide</h3>
       <sub><b>Full Stack Ride Booking</b></sub>
@@ -112,7 +109,6 @@ me = {
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <b>📂 More Work</b><br/>
@@ -123,6 +119,7 @@ me = {
     </td>
   </tr>
 </table>
+
 
 
 ## 🧰 stack
