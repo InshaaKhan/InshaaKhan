@@ -91,7 +91,7 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Radar – Resume Analyzer</h3>
+      <h3>📊 AI – Resume Analyzer</h3>
       <sub><b>AI Resume Analysis</b></sub>
       <p>An AI-powered resume analyzer that evaluates resumes, generates ATS scores and provides smart feedback.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Gemini AI</code></p>
