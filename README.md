@@ -67,71 +67,63 @@ me = {
 </table>
 
 ## 🚀 projects
-<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧬 Dionysus AI</h3>
-      <p>AI-powered application featuring semantic similarity search, embeddings and RAG architecture.</p>
-      <p>
-        <code>Next.js</code>
-        <code>React</code>
-        <code>TypeScript</code>
-        <code>tRPC</code>
-        <code>Prisma</code>
-        <code>PostgreSQL</code>
-      </p>
+      <sub><b>AI-Powered Semantic Search</b></sub>
+      <p>A semantic search application using GitHub data, embeddings and RAG architecture to provide intelligent search results.</p>
+      <p><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>RAG</code></p>
       <a href="https://github.com/InshaaKhan/dionysus-ai">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
       </a>
     </td>
 
     <td width="50%" valign="top">
-      <h3>🤖 MockMate AI</h3>
-      <p>AI-powered mock interview platform designed to help users practice interviews and improve their preparation.</p>
-      <p>
-        <code>Next.js</code>
-        <code>React</code>
-        <code>TypeScript</code>
-        <code>AI</code>
-      </p>
+      <h3>🤖 MockMate</h3>
+      <sub><b>AI Mock Interview Platform</b></sub>
+      <p>An AI-powered mock interview platform designed to help candidates practice interviews and improve their performance.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>AI</code></p>
       <a href="https://github.com/InshaaKhan/mockmate-ai">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
       </a>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 Resume Analyzer</h3>
-      <p>AI-powered resume analyzer that evaluates resumes, provides ATS scores and actionable feedback.</p>
-      <p>
-        <code>React</code>
-        <code>TypeScript</code>
-        <code>Node.js</code>
-        <code>Gemini AI</code>
-      </p>
+      <h3>📊 Radar – Resume Analyzer</h3>
+      <sub><b>AI Resume Analysis</b></sub>
+      <p>An AI-powered resume analyzer that evaluates resumes, generates ATS scores and provides smart feedback.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Gemini AI</code></p>
       <a href="https://github.com/InshaaKhan/resume-analyzer">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
       </a>
     </td>
 
     <td width="50%" valign="top">
       <h3>🚗 QuickRide</h3>
-      <p>Full-stack ride booking application designed to connect riders and drivers through a seamless booking experience.</p>
-      <p>
-        <code>React</code>
-        <code>Node.js</code>
-        <code>Express.js</code>
-        <code>MongoDB</code>
-      </p>
+      <sub><b>Full Stack Ride Booking</b></sub>
+      <p>A ride booking application with user authentication and ride booking functionality.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
       <a href="https://github.com/InshaaKhan/QuickRide">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-A21517?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Project-A21517?style=for-the-badge" alt="View project"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <b>📂 More Work</b><br/>
+      <sub>Explore more projects and repositories on my GitHub.</sub><br/>
+      <a href="https://github.com/InshaaKhan">
+        <img src="https://img.shields.io/badge/Explore_GitHub-A21517?style=for-the-badge" alt="Explore GitHub"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 ## 🧰 stack
 
